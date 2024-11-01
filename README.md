@@ -69,4 +69,14 @@ This system is designed to enhance user experience by providing quick access to 
 Here are some outputs from the chatbot showcasing its capabilities:
 
 ![New Chat feature](images/Main%20Menu.png)
+<p align="center">
+  <img src="images/Main%20Menu.png" alt="Image 1" width="45%">
+  <img src="images/License%20Requests%20Menu.png" alt="Image 2" width="45%">
+</p>
+
+<p align="center">
+  <img src="images/Issue%20new%20license.png" alt="Image 3" width="45%">
+  <img src="images/Receiving%20User%20Inputs.png" alt="Image 4" width="45%">
+</p>
+
 
