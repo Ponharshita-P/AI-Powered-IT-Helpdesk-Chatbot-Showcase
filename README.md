@@ -70,7 +70,7 @@ Here are some outputs from the chatbot showcasing its capabilities:
 
 <div align="center">
 
-| Image 1 | Image 2 |
+| License Request Form | Track License Details |
 | --- | --- |
 | ![License Request Form](images/Main%20Menu.png) <br>  | ![Track License Details](images/Main%20Menu.png) <br> |
 
@@ -78,7 +78,7 @@ Here are some outputs from the chatbot showcasing its capabilities:
 
 <div align="center">
 
-| Image 3 | Image 4 |
+| Modify License |Reactivate License |
 | --- | --- |
 | ![Modify License](images/Main%20Menu.png) <br>  | ![Reactivate License](images/Main%20Menu.png) <br>  |
 
@@ -86,7 +86,7 @@ Here are some outputs from the chatbot showcasing its capabilities:
 
 <div align="center">
 
-| Image 5 | Image 6 |
+| New License Confirmation | Renew License Confirmation |
 | --- | --- |
 | ![New License Confirmation](images/New%20license%20Confirmation.png) <br>  | ![Renew License Confirmation](images/Renew%20license%20Confirmation.png) <br> |
 
@@ -94,15 +94,7 @@ Here are some outputs from the chatbot showcasing its capabilities:
 
 <div align="center">
 
-| Image 7 | Image 8 |
-| --- | --- |
-| ![License Reactivation Success](images/License%20Reactivation%20Success.png) <br>  | ![New Chat](images/NewChat.png) <br>  |
-
-</div>
-
-<div align="center">
-
-| Image 9 | Image 10 |
+| New Chat | New Chat |
 | --- | --- |
 | ![New Chat](images/Newchat2.png) <br>  | ![New Chat](images/NewChat3.png) <br> |
 
@@ -110,7 +102,7 @@ Here are some outputs from the chatbot showcasing its capabilities:
 
 <div align="center">
 
-| Image 11 | Image 12 |
+| New Chat | FAQs Menu |
 | --- | --- |
 | ![New Chat](images/Newchat4.png) <br>  | ![FAQs Menu](images/FAQs%20Menu.png) <br>  |
 
@@ -118,7 +110,7 @@ Here are some outputs from the chatbot showcasing its capabilities:
 
 <div align="center">
 
-| Image 13 | Image 14 |
+| Common Axpert FAQs Sub Menu | Limit Exceeded FAQs Sub Menu |
 | --- | --- |
 | ![Common Axpert FAQs Sub Menu](images/Common%20Axpert%20FAQs%20Sub%20Menu.png) <br>  | ![Limit Exceeded FAQs Sub Menu](images/Limit%20Exceeded%20FAQs%20Sub%20Menu.png) <br> |
 
@@ -126,7 +118,7 @@ Here are some outputs from the chatbot showcasing its capabilities:
 
 <div align="center">
 
-| Image 15 | Image 17 |
+| FAQs Answers - “How to ?” | Watch Tutorial Videos |
 | --- | --- |
 | ![FAQs Answers - “How to ?”](images/FAQs%20Answers%20-%20“How%20to%20”.png) <br>  | ![Watch Tutorial Videos](images/Watch%20Tutorial%20Videos.png) <br>  |
 
@@ -134,7 +126,7 @@ Here are some outputs from the chatbot showcasing its capabilities:
 
 <div align="center">
 
-| Image 18 | Image 19 |
+| Watch Tutorial Videos | Download Resources Sub Menu |
 | --- | --- |
 | ![Watch Tutorial Videos](images/Watch%20Tutorial%20Videos2.png) <br>  | ![Download Resources Sub Menu](images/Download%20Resources%20Sub%20Menu.png) <br> |
 
@@ -142,7 +134,7 @@ Here are some outputs from the chatbot showcasing its capabilities:
 
 <div align="center">
 
-| Image 20 | Image 21 |
+| Download Setup Kits | Download Axpert Binaries |
 | --- | --- |
 | ![Download Setup Kits](images/Download%20Setup%20Kits.png) <br>  | ![Download Axpert Binaries](images/Download%20Axpert%20Binaries.png) <br>  |
 
