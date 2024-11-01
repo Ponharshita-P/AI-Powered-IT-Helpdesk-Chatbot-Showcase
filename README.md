@@ -68,14 +68,16 @@ This system is designed to enhance user experience by providing quick access to 
 ### Chatbot Interaction
 Here are some outputs from the chatbot showcasing its capabilities:
 
-<p align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <img src="images/Main%20Menu.png" alt="Image 1" width="35%">
-  <img src="images/License%20Requests%20Menu.png" alt="Image 2" width="35%">
-</p>
 
-<p align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <img src="images/Issue%20new%20license.png" alt="Image 3" width="35%">
-  <img src="images/Receiving%20User%20Inputs.png" alt="Image 4" width="35%">
-</p>
+
+<div align="center" style="display: flex; justify-content: center; gap: 40px; margin-bottom: 40px;">
+  <img src="images/Main%20Menu.png" alt="Image 1" width="30%" style="padding: 10px;">
+  <img src="images/License%20Requests%20Menu.png" alt="Image 2" width="30%" style="padding: 10px;">
+</div>
+
+<div align="center" style="display: flex; justify-content: center; gap: 40px; margin-bottom: 40px;">
+  <img src="images/Issue%20new%20license.png" alt="Image 3" width="30%" style="padding: 10px;">
+  <img src="images/Receiving%20User%20Inputs.png" alt="Image 4" width="30%" style="padding: 10px;">
+</div>
 
 
