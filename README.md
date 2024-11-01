@@ -9,8 +9,8 @@ Showcasing an AI-Powered IT Helpdesk Chatbot built with RASA. It automates IT su
    - [Reactivate Axpert License](#reactivate-axpert-license)
    - [Track License Details](#track-license-details)
 2. [Frequently Asked Questions (FAQs)](#frequently-asked-questions-faqs)
-   - [New Chat - User-Specific Questions](#new-chat-user-specific-questions)
-3. [Resource Download Section](#resource-download-section)
+3. [New Chat - User-Specific Questions](#new-chat-user-specific-questions)
+4. [Resource Download Section](#resource-download-section)
 
 
 # Axpert License Management System
