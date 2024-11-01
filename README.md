@@ -72,7 +72,7 @@ Here are some outputs from the chatbot showcasing its capabilities:
 
 | License Request Form | Track License Details |
 | --- | --- |
-| <img src="images/Main%20Menu.png" alt="License Request Form" width="400"> <br> License Request Form | <img src="images/Main%20Menu.png" alt="Track License Details" width="400"> <br> Track License Details |
+| <img src="images/Main%20Menu.png" alt="License Request Form" width="350"> <br> License Request Form | <img src="images/Main%20Menu.png" alt="Track License Details" width="350"> <br> Track License Details |
 
 </div>
 
@@ -80,7 +80,7 @@ Here are some outputs from the chatbot showcasing its capabilities:
 
 | Modify License | Reactivate License |
 | --- | --- |
-| <img src="images/Main%20Menu.png" alt="Modify License" width="400"> <br> Modify License | <img src="images/Main%20Menu.png" alt="Reactivate License" width="400"> <br> Reactivate License |
+| <img src="images/Main%20Menu.png" alt="Modify License" width="350"> <br> Modify License | <img src="images/Main%20Menu.png" alt="Reactivate License" width="350"> <br> Reactivate License |
 
 </div>
 
@@ -88,7 +88,7 @@ Here are some outputs from the chatbot showcasing its capabilities:
 
 | New License Confirmation | Renew License Confirmation |
 | --- | --- |
-| <img src="images/New%20license%20Confirmation.png" alt="New License Confirmation" width="400"> <br> New License Confirmation | <img src="images/Renew%20license%20Confirmation.png" alt="Renew License Confirmation" width="400"> <br> Renew License Confirmation |
+| <img src="images/New%20license%20Confirmation.png" alt="New License Confirmation" width="350"> <br> New License Confirmation | <img src="images/Renew%20license%20Confirmation.png" alt="Renew License Confirmation" width="350"> <br> Renew License Confirmation |
 
 </div>
 
@@ -96,7 +96,7 @@ Here are some outputs from the chatbot showcasing its capabilities:
 
 | New Chat | New Chat |
 | --- | --- |
-| <img src="images/Newchat2.png" alt="New Chat" width="400"> <br> New Chat | <img src="images/NewChat3.png" alt="New Chat" width="400"> <br> New Chat |
+| <img src="images/Newchat2.png" alt="New Chat" width="350"> <br> New Chat | <img src="images/NewChat3.png" alt="New Chat" width="350"> <br> New Chat |
 
 </div>
 
@@ -104,7 +104,7 @@ Here are some outputs from the chatbot showcasing its capabilities:
 
 | New Chat | FAQs Menu |
 | --- | --- |
-| <img src="images/Newchat4.png" alt="New Chat" width="400"> <br> New Chat | <img src="images/FAQs%20Menu.png" alt="FAQs Menu" width="400"> <br> FAQs Menu |
+| <img src="images/Newchat4.png" alt="New Chat" width="350"> <br> New Chat | <img src="images/FAQs%20Menu.png" alt="FAQs Menu" width="350"> <br> FAQs Menu |
 
 </div>
 
@@ -112,7 +112,7 @@ Here are some outputs from the chatbot showcasing its capabilities:
 
 | Common Axpert FAQs Sub Menu | Limit Exceeded FAQs Sub Menu |
 | --- | --- |
-| <img src="images/Common%20Axpert%20FAQs%20Sub%20Menu.png" alt="Common Axpert FAQs Sub Menu" width="400"> <br> Common Axpert FAQs Sub Menu | <img src="images/Limit%20Exceeded%20FAQs%20Sub%20Menu.png" alt="Limit Exceeded FAQs Sub Menu" width="400"> <br> Limit Exceeded FAQs Sub Menu |
+| <img src="images/Common%20Axpert%20FAQs%20Sub%20Menu.png" alt="Common Axpert FAQs Sub Menu" width="350"> <br> Common Axpert FAQs Sub Menu | <img src="images/Limit%20Exceeded%20FAQs%20Sub%20Menu.png" alt="Limit Exceeded FAQs Sub Menu" width="350"> <br> Limit Exceeded FAQs Sub Menu |
 
 </div>
 
@@ -120,7 +120,7 @@ Here are some outputs from the chatbot showcasing its capabilities:
 
 | FAQs Answers - “How to ?” | Watch Tutorial Videos |
 | --- | --- |
-| <img src="images/FAQs%20Answers%20-%20“How%20to%20”.png" alt="FAQs Answers - “How to ?”" width="400"> <br> FAQs Answers - “How to ?” | <img src="images/Watch%20Tutorial%20Videos.png" alt="Watch Tutorial Videos" width="400"> <br> Watch Tutorial Videos |
+| <img src="images/FAQs%20Answers%20-%20“How%20to%20”.png" alt="FAQs Answers - “How to ?”" width="350"> <br> FAQs Answers - “How to ?” | <img src="images/Watch%20Tutorial%20Videos.png" alt="Watch Tutorial Videos" width="350"> <br> Watch Tutorial Videos |
 
 </div>
 
@@ -128,7 +128,7 @@ Here are some outputs from the chatbot showcasing its capabilities:
 
 | Watch Tutorial Videos | Download Resources Sub Menu |
 | --- | --- |
-| <img src="images/Watch%20Tutorial%20Videos2.png" alt="Watch Tutorial Videos" width="400"> <br> Watch Tutorial Videos | <img src="images/Download%20Resources%20Sub%20Menu.png" alt="Download Resources Sub Menu" width="400"> <br> Download Resources Sub Menu |
+| <img src="images/Watch%20Tutorial%20Videos2.png" alt="Watch Tutorial Videos" width="350"> <br> Watch Tutorial Videos | <img src="images/Download%20Resources%20Sub%20Menu.png" alt="Download Resources Sub Menu" width="350"> <br> Download Resources Sub Menu |
 
 </div>
 
@@ -136,6 +136,6 @@ Here are some outputs from the chatbot showcasing its capabilities:
 
 | Download Setup Kits | Download Axpert Binaries |
 | --- | --- |
-| <img src="images/Download%20Setup%20Kits.png" alt="Download Setup Kits" width="400"> <br> Download Setup Kits | <img src="images/Download%20Axpert%20Binaries.png" alt="Download Axpert Binaries" width="400"> <br> Download Axpert Binaries |
+| <img src="images/Download%20Setup%20Kits.png" alt="Download Setup Kits" width="350"> <br> Download Setup Kits | <img src="images/Download%20Axpert%20Binaries.png" alt="Download Axpert Binaries" width="350"> <br> Download Axpert Binaries |
 
 </div>
