@@ -1,4 +1,4 @@
-# AI-Powered-IT-Helpdesk-Chatbot-Showcase
+# AI-Powered IT Helpdesk Chatbot Showcase
 Showcasing an AI-Powered IT Helpdesk Chatbot built with RASA. It automates IT support, delivering quick responses to user queries. Due to confidentiality, the code is not shared, but screenshots highlight its features.
 
 # MODULES
