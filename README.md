@@ -83,3 +83,22 @@ Here are some outputs from the chatbot showcasing its capabilities:
 </div>
 
 
+
+
+
+<div align="center">
+
+| Image 1 | Image 2 |
+| --- | --- |
+| ![Image 1](images/Main%20Menu.png) <br> *License Request Form* | ![Image 2](images/Main%20Menu.png) <br> *Track License Details* |
+
+</div>
+
+<div align="center">
+
+| Image 3 | Image 4 |
+| --- | --- |
+| ![Image 3](images/Main%20Menu.png) <br> *Modify License* | ![Image 4](images/Main%20Menu.png) <br> *Reactivate License* |
+
+</div>
+
