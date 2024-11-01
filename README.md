@@ -1,6 +1,15 @@
 # AI-Powered IT Helpdesk Chatbot Showcase
 Showcasing an AI-Powered IT Helpdesk Chatbot built with RASA. It automates IT support, delivering quick responses to user queries. Due to confidentiality, the code is not shared, but screenshots highlight its features.
 
+## Project Overview
+
+- Led the design and development of a custom rule-based AI-driven IT helpdesk chatbot, optimized for automated support ticket resolution.
+- Automated client workflows, including license management, resulting in a 50% reduction in response times.
+- Developed and utilized RESTful APIs for website integration and database query retrieval.
+- Implemented semantic similarity models using Transformer-based architecture (BERT) for improved understanding of user queries.
+- Trained the chatbot on a curated dataset of over 150+ support tickets to ensure accurate responses.
+
+
 # MODULES
 1. [License Requests](#license-requests)
    - [Issue New Axpert License](#issue-new-axpert-license)
