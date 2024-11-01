@@ -73,11 +73,13 @@ Here are some outputs from the chatbot showcasing its capabilities:
 <div align="center" style="display: flex; justify-content: center; gap: 40px; margin-bottom: 40px;">
   <img src="images/Main%20Menu.png" alt="Image 1" width="25%" style="padding: 100px;">
   <img src="images/License%20Requests%20Menu.png" alt="Image 2" width="25%" style="padding: 100px;">
+  <img src="images/Issue%20new%20license.png" alt="Image 3" width="25%" style="padding: 100px;">
 </div>
 
 <div align="center" style="display: flex; justify-content: center; gap: 40px; margin-bottom: 40px;">
-  <img src="images/Issue%20new%20license.png" alt="Image 3" width="25%" style="padding: 100px;">
   <img src="images/Receiving%20User%20Inputs.png" alt="Image 4" width="25%" style="padding: 100px;">
+  <img src="images/New%20license%20Confirmation" alt="Image 3" width="25%" style="padding: 100px;">
+  <img src="images/Renew%20license%20Confirmation.png" alt="Image 3" width="25%" style="padding: 100px;">
 </div>
 
 
