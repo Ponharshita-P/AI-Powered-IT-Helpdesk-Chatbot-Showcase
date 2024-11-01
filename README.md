@@ -68,10 +68,5 @@ This system is designed to enhance user experience by providing quick access to 
 ### Chatbot Interaction
 Here are some outputs from the chatbot showcasing its capabilities:
 
-![images/Main Menu.png](images/Main Menu.png)
-images/Main Menu.png.
+![New Chat feature](images/MainMenu.png)
 
-![Response Example](Screenshots/example2.png)
-*Description of what this screenshot demonstrates.*
-
-(Continue adding screenshots with descriptions)
